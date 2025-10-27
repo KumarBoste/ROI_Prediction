@@ -1,4 +1,4 @@
-# 📊 Training Effectiveness & ROI Prediction System
+#  Training Effectiveness & ROI Prediction System
 
 This project predicts **Post-Training Score**, **Performance Gain**, and **Return on Investment (ROI)** for employee training programs.  
 It uses a **two–stage machine learning pipeline**:
@@ -10,7 +10,7 @@ This allows HR and L&D teams to evaluate the **impact & cost-efficiency of train
 
 ---
 
-## 🧠 Project Workflow
+## Project Workflow
 
 Raw Training Data
 ↓
@@ -25,7 +25,7 @@ Dashboard / Web App Outputs Results
 
 ---
 
-## ⚙️ Models Used
+## Models Used
 
 | Stage | Model | Description |
 |------|--------|-------------|
@@ -53,7 +53,7 @@ project/
 ```
 ---
 
-## 🚀 Running the App
+## Running the App
 
 ### 1. Install dependencies
 ```bash
@@ -66,7 +66,7 @@ streamlit run app.py
 http://localhost:8501
 ```
 
-🧩 Input Features (User Provides)
+Input Features (User Provides)
 | Feature                 | Description                                   |
 | ----------------------- | --------------------------------------------- |
 | Department              | Employee’s Department                         |
@@ -101,5 +101,6 @@ http://localhost:8501
 - Optimize training selection based on financial return
 
 - Support HR decisions using data-driven insights
+
 
 - Save cost by identifying low-impact trainings
